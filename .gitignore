@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets and environment variables
+.env
+
+# Python virtual environment
+.venv/
+
+# Local Vector Database (ChromaDB)
+chroma_db/
+my_wiki_db/
+
+# Python caches
+__pycache__/
+*.py[cod]
